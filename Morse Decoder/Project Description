@@ -1,0 +1,5 @@
+The project consists of a MATLAB script which is able to decode Morse audio to text, using the CODEX standard. 
+It was developed during the 'Data Acquisition and Processing' course, taught by Dr. Habil. Eng. Mihai V. Micea, under the supervision of Dr. Eng. Eugenia-Ana Capota.
+It is not the result of individual work, but of team effort, by my colleague, Pap Sara-Kristin and I. 
+Dr. Habil. Eng. Mihai V. Micea and Dr. Eng. Eugenia-Ana Capota provided tools to aid in the development process, including documentation, the MATLAB environment and support. The code relied on two files included in the documentation: newFile.m. and morse_decode.m.
+Thank you, Sara, I couldn't have done any of this without you.
