@@ -1,1 +1,1 @@
-# projects
+All of these projects were developed in equal measure by my colleague Pap Sara-Kristin and I.
